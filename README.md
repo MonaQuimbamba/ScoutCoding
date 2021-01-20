@@ -1,5 +1,5 @@
 # ScoutCoding
-![Contribution guidelines for this project](img/wholePage.JPG)
+![Contribution guidelines for this project](img/scout.JPG)
 
 For example, the caragejo code that translates a text backwards 
 
