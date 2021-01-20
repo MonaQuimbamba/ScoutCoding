@@ -1,11 +1,15 @@
 # ScoutCoding
+![Contribution guidelines for this project](img/wholePage.jpg)
 
+For example, the caragejo code that translates a text backwards 
+
+![Contribution guidelines for this project](img/test.jpg)
 # Description 
 
-Conception d'un outil en java qui permet de faire la traduction de 5 langage scoutiste 
+Design of a java tool that allows the translation of 5 scouting languages 
 
-# langage informatique
+# IT language
 -Java
-# Comment tester le code 
+# How to test the code 
 
-Télécharger le dossier deploy et executer le fichier setup qui est dedans
+Download the deploy folder and execute the setup file inside.
